@@ -2,20 +2,32 @@
 
 Welcome to my **Data Structures & Algorithms (DSA)** repository!
 
-I'm currently learning DSA from scratch and using this repository to document my progress. Every problem I solve and every concept I learn will be added here.
-
-## 🎯 Goals
-
-- Build a strong foundation in DSA
-- Improve problem-solving skills
-- Prepare for coding interviews and competitive programming
-- Maintain consistency by solving problems regularly
+I'm currently learning **C++ and DSA from scratch**, and this repository documents my progress. It includes my C++ practice, DSA implementations, and solutions to various problems as I continue learning.
 
 ---
 
-## 📚 Topics Covered
+## 🎯 Goals
 
-- [ ] Basics
+- Learn C++ from the ground up
+- Build a strong foundation in Data Structures & Algorithms
+- Improve problem-solving skills
+- Stay consistent with daily coding
+- Prepare for coding interviews and competitive programming
+
+---
+
+## 📚 Learning Roadmap
+
+### 🟢 C++ Basics
+- [ ] C++ Fundamentals
+- [ ] Functions
+- [ ] Arrays
+- [ ] Strings
+- [ ] Pointers
+- [ ] Object-Oriented Programming
+- [ ] STL
+
+### 🔵 Data Structures & Algorithms
 - [ ] Time & Space Complexity
 - [ ] Arrays
 - [ ] Strings
@@ -34,16 +46,16 @@ I'm currently learning DSA from scratch and using this repository to document my
 - [ ] Greedy Algorithms
 - [ ] Dynamic Programming
 - [ ] Tries
-- [ ] Segment Trees
 - [ ] Bit Manipulation
 
 ---
 
 ## 📂 Repository Structure
 
-```
+```text
 DSA-Practice/
 │
+├── Basics/
 ├── Arrays/
 ├── Strings/
 ├── Searching/
@@ -55,14 +67,14 @@ DSA-Practice/
 ├── Trees/
 ├── Graphs/
 ├── Dynamic Programming/
-├── Greedy/
-├── Bit Manipulation/
-└── README.md
+│
+├── README.md
+└── ROADMAP.md
 ```
 
 ---
 
-## 💻 Languages Used
+## 💻 Language
 
 - C++
 
@@ -72,7 +84,7 @@ DSA-Practice/
 
 | Topic | Status |
 |--------|--------|
-| Basics | ⏳ |
+| C++ Basics | ⏳ |
 | Arrays | ⏳ |
 | Strings | ⏳ |
 | Searching | ⏳ |
@@ -85,65 +97,29 @@ DSA-Practice/
 | Graphs | ⏳ |
 | Dynamic Programming | ⏳ |
 
-Legend:
+**Legend**
 - ✅ Completed
 - ⏳ In Progress
 - ⬜ Not Started
 
 ---
 
-## 📝 Problem Format
+## 📝 Repository Purpose
 
-Each solution may include:
-
-- Problem Statement
-- Approach
-- Time Complexity
-- Space Complexity
-- Code
-- Notes (if applicable)
-
-Example:
-
-```
-Arrays/
-└── Two Sum/
-    ├── solution.cpp
-    └── notes.md
-```
+This repository serves as my personal learning journal. Every concept I learn, every problem I solve, and every improvement I make will be committed here as I progress through C++ and DSA.
 
 ---
 
 ## 📅 Learning Log
 
-| Date | Topics |
-|------|--------|
-| YYYY-MM-DD | Started DSA Journey |
+| Date | Milestone |
+|------|-----------|
+| 10/07/2026 | Started my C++ & DSA journey |
 
 ---
 
-## 🎯 Current Focus
+## 🌟 Quote
 
-> Building strong fundamentals before moving to advanced topics.
-
----
-
-## 🌟 Motivation
-
-> "Consistency beats intensity."
-
-One problem at a time. One concept at a time.
-
----
-
-## 🤝 Contributions
-
-This repository is primarily for my personal learning journey, but suggestions and improvements are always welcome.
-
----
-
-## ⭐ If you find this repository helpful
-
-Feel free to star the repository!
+> *"Consistency compounds. One problem a day is better than none."*
 
 Happy Coding! 🚀
