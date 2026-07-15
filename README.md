@@ -69,7 +69,6 @@ DSA-Practice/
 ├── Dynamic Programming/
 │
 ├── README.md
-└── ROADMAP.md
 ```
 
 ---
